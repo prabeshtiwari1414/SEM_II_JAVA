@@ -32,7 +32,7 @@ public class Firstlab {
 	public void odd() {
 		int e;
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Enter a number");
+		System.out.println("Enter any  number");
 		e=sc.nextInt();
 		if(e%2==0) {
 			System.out.println(e+ " is even");
